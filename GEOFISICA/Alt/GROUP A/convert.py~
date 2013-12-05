@@ -1,0 +1,13 @@
+import pylab
+import numpy
+import sys, string, os
+from StringIO import StringIO
+
+def plots(Filename,i):
+#Importa los archivos producidos por $evolve.c$
+    input=numpy.loadtxt(Filename)
+    t=input
+    c1=t[:,1]
+    c2=t[:,2]
+
+    print c2 

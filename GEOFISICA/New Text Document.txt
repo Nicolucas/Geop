@@ -1,0 +1,14 @@
+1: Grafica de TMI contra t para cada uno de los grupos
+	Encontrar que frecuencias tiene
+	A que se debe
+	(Usar Fourier)
+2: Grafica de TMI en espacio
+	interpolacion para ver grafica suave
+		Interpolate Shading
+3: Grafica de anomalia magnetica de la zona usada en 1 y 2
+4: Grafica de la anomalia magnetica de la zona 
+	Interpretacion
+
+
+num2str
+str2num
